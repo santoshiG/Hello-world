@@ -1,4 +1,4 @@
-#include<reg51.h>
+#include<p18f4580.h>
 #include<stdio.h>
 #include<string.h>
 
